@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, welcome to my humble GitHub abode.
 
-<!--
-**rishikesh-yelne/rishikesh-yelne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my Master's degree in Computer Science at North Carolina State University, US. 
 
-Here are some ideas to get you started:
+Feel free to take a look at my contributions to the coding world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikesh-yelne&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishikesh-yelne&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikesh-yelne&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikesh-yelne&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishikesh-yelne&theme=github_dark&utcOffset=-5)
