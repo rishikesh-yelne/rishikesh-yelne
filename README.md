@@ -1,10 +1,6 @@
-### Hi, welcome to my humble GitHub abode.
+Currently exploring SuperCollider to make 🎶 through code - https://github.com/rishikesh-yelne/SuperCollider 
 
-I'm currently pursuing my Master's degree in Computer Science at North Carolina State University, US. 
-
-Feel free to take a look at my contributions to the coding world.
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikesh-yelne&theme=graywhite)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishikesh-yelne&theme=graywhite)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishikesh-yelne&theme=graywhite)
+Feel free to check out other fun projects too.
+- 🤖 Experimented with Robotics using ROS2 - https://github.com/rishikesh-yelne/Software4RoboticsProject
+- 🛠️ Practicing DevOps fundamentals - https://github.com/rishikesh-yelne/devops-practice
+- 🗒️ Database management using Springboot, MySQL and Docker - https://github.com/rishikesh-yelne/WolfMedia
